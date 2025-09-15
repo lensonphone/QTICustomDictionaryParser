@@ -1,0 +1,2 @@
+# QTICustomDictionaryParser
+QTICustomDictionaryParser
